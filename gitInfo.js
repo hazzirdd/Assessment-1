@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition = "Git is a command line. It takes commands which pass them on to the computers OS to run"
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = "GitHub is a cloud storage to hold and save developers code. Anybody can go to a certain developers GitHub profile and view their code."
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+let gitInitDefinition = "initializes a local repository right in a folder (Keeps track of changes)"
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+let gitCloneDefinition = "Makes a copy of a repository"
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+let gitSatusDefinition = "Tells you the information about a repo. You can see if it is being tracked or not."
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,8 @@
 */
 
 //CODE HERE
-
+let gitAddDefinition = "Adds some files to be tracked."
+let gitAddCode = "git add ."
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +65,8 @@
 */
 
 //CODE HERE
-
+let gitCommitDefinition = "creates a snapshot of the files you are tracking. It is how we save repos."
+let gitCommitCode = "git commit -m "initial commit" "
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +75,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = "Puts your local commits onto Github"
